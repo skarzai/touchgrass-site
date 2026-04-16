@@ -88,9 +88,7 @@ If this policy changes, we'll update the "Last updated" date above and post the 
 
 If you have questions about this policy, contact:
 
-**Email**: <your-email@example.com>
-
-*(Update this email before publishing.)*
+**Email**: [touchgrass.app@gmail.com](mailto:touchgrass.app@gmail.com)
 
 ---
 
