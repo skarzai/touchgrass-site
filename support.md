@@ -11,7 +11,7 @@ If you're running into a bug, have a feature request, or just want to say hi —
 
 ## 📧 Email us
 
-**[touchgrass.app@gmail.com](mailto:touchgrass.app@gmail.com)**
+**[touch.grass.mena@gmail.com](mailto:touch.grass.mena@gmail.com)**
 
 We read every message. Please include:
 
